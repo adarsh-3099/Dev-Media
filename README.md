@@ -1,6 +1,6 @@
 # Dev-Media
 
-Dev Media App is a social platform for developers where they can create profile and posts and can comment of fellow developers posts.
+Dev Media App is a social platform for developers where they can create profile and posts and can comment and like of fellow developers posts.
 
 ## Installation
 
